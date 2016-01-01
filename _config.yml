@@ -1,0 +1,58 @@
+url: https://craftsmenlabs.github.io
+baseurl: /craftsmenlabs
+
+# Site settings
+title: Craftsmen labs
+email: info@codecentric.nl
+description: "Craftsmen labs is the place where software craftmanship and innovation meet. Continuous validation, IOT and machine learning"
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 4EB2D1
+  secondary: 95C5B6  
+  secondary-dark: 333
+
+# Team names, titles and social links
+people:
+- name: Kay Garland
+  pic: 1
+  position: Lead Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/craftsmenlabs
+  - title: github
+    url: http://github.com/craftsmenlabs
+
+# User setting
+owner:
+email:
+facebook_username:
+twitter_username:
+github_username:
+address:
+  - line: Johan Huizingalaan 763a
+  - line: 1066 VH, Amsterdam
+  - line: The Netherlands
+
+  # Feel free to add more lines here 
+telephone: +31 (0) 854 000 011
+email: info@crafstmenlabs.nl
+
+# API settings
+google_api_key: AIzaSyCdGwGgcbqomwupJAS5kx9RFEU_WPuTW_s
+
+# Build settings
+markdown: kramdown
+
+# Build settings
+markdown: kramdown
+permalink: pretty

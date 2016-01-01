@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Craftsmen labs</title>
+    <description>Craftsmen labs</description>
+    <link>https://craftsmenlabs.github.io/craftsmenlabs/</link>
+    <atom:link href="https://craftsmenlabs.github.io/craftsmenlabs/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 01 Jan 2016 23:36:48 +0100</pubDate>
+    <lastBuildDate>Fri, 01 Jan 2016 23:36:48 +0100</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Gareth</title>
+        <description>
+</description>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 +0200</pubDate>
+        <link>https://craftsmenlabs.github.io/craftsmenlabs/web%20development/2014/07/18/project-1/</link>
+        <guid isPermaLink="true">https://craftsmenlabs.github.io/craftsmenlabs/web%20development/2014/07/18/project-1/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>sDex</title>
+        <description>
+</description>
+        <pubDate>Wed, 16 Jul 2014 00:00:00 +0200</pubDate>
+        <link>https://craftsmenlabs.github.io/craftsmenlabs/web%20development/2014/07/16/project-3/</link>
+        <guid isPermaLink="true">https://craftsmenlabs.github.io/craftsmenlabs/web%20development/2014/07/16/project-3/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>IoT Applied</title>
+        <description>
+</description>
+        <pubDate>Mon, 14 Jul 2014 00:00:00 +0200</pubDate>
+        <link>https://craftsmenlabs.github.io/craftsmenlabs/web%20development/2014/07/14/project-5/</link>
+        <guid isPermaLink="true">https://craftsmenlabs.github.io/craftsmenlabs/web%20development/2014/07/14/project-5/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+  </channel>
+</rss>

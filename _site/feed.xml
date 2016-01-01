@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Craftsmen labs</title>
-    <description>Craftsmen labs</description>
-    <link>https://craftsmenlabs.github.io/craftsmenlabs/</link>
-    <atom:link href="https://craftsmenlabs.github.io/craftsmenlabs/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 01 Jan 2016 23:36:48 +0100</pubDate>
-    <lastBuildDate>Fri, 01 Jan 2016 23:36:48 +0100</lastBuildDate>
+    <description>Craftsmen labs is the place where software craftmanship and innovation meet. Continuous validation, IOT and machine learning</description>
+    <link>https://craftsmenlabs.github.io/</link>
+    <atom:link href="https://craftsmenlabs.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 01 Jan 2016 23:57:48 +0100</pubDate>
+    <lastBuildDate>Fri, 01 Jan 2016 23:57:48 +0100</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>
 </description>
         <pubDate>Fri, 18 Jul 2014 00:00:00 +0200</pubDate>
-        <link>https://craftsmenlabs.github.io/craftsmenlabs/web%20development/2014/07/18/project-1/</link>
-        <guid isPermaLink="true">https://craftsmenlabs.github.io/craftsmenlabs/web%20development/2014/07/18/project-1/</guid>
+        <link>https://craftsmenlabs.github.io/web%20development/2014/07/18/project-1/</link>
+        <guid isPermaLink="true">https://craftsmenlabs.github.io/web%20development/2014/07/18/project-1/</guid>
         
         
         <category>Web Development</category>
@@ -27,8 +27,8 @@
         <description>
 </description>
         <pubDate>Wed, 16 Jul 2014 00:00:00 +0200</pubDate>
-        <link>https://craftsmenlabs.github.io/craftsmenlabs/web%20development/2014/07/16/project-3/</link>
-        <guid isPermaLink="true">https://craftsmenlabs.github.io/craftsmenlabs/web%20development/2014/07/16/project-3/</guid>
+        <link>https://craftsmenlabs.github.io/web%20development/2014/07/16/project-3/</link>
+        <guid isPermaLink="true">https://craftsmenlabs.github.io/web%20development/2014/07/16/project-3/</guid>
         
         
         <category>Web Development</category>
@@ -40,8 +40,8 @@
         <description>
 </description>
         <pubDate>Mon, 14 Jul 2014 00:00:00 +0200</pubDate>
-        <link>https://craftsmenlabs.github.io/craftsmenlabs/web%20development/2014/07/14/project-5/</link>
-        <guid isPermaLink="true">https://craftsmenlabs.github.io/craftsmenlabs/web%20development/2014/07/14/project-5/</guid>
+        <link>https://craftsmenlabs.github.io/web%20development/2014/07/14/project-5/</link>
+        <guid isPermaLink="true">https://craftsmenlabs.github.io/web%20development/2014/07/14/project-5/</guid>
         
         
         <category>Web Development</category>

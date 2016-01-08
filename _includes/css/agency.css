@@ -867,7 +867,7 @@ body {
 
 @media(max-width:768px) {
     .map {
-        height: 75%;
+        height: 300px;
     }
 }
 

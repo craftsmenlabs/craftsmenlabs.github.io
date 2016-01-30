@@ -57,6 +57,12 @@ h6 {
     font-weight: 700;
 }
 
+.flooting-text{
+    padding-top: 5em;
+    padding-bottom: 2em;
+}
+
+
 .img-centered {
     margin: 0 auto;
 }
@@ -341,6 +347,13 @@ section h2.section-heading {
     font-size: 40px;
 }
 
+section h2.section-heading-blue {
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 40px;
+    color: #{{ site.color.primary }};
+}
+
 section h3.section-subheading {
     margin-bottom: 75px;
     text-transform: none;
@@ -352,8 +365,8 @@ section h3.section-subheading {
 
 section.wrapper.style1 {
     background-color: #f9f9f9; 
-    padding-top: 6em;
-    padding-bottom: 6em;
+    padding-top: 10em;
+    padding-bottom: 10em;
 }
 
 @media(min-width:768px) {

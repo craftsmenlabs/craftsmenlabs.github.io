@@ -1,5 +1,8 @@
 # How to use
 
+The site is created with Jekyll (https://jekyllrb.com).
+
+
 ###Portfolio 
 
 Portfolio projects are in '/_posts'

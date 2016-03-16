@@ -52,7 +52,8 @@ google_api_key: AIzaSyCdGwGgcbqomwupJAS5kx9RFEU_WPuTW_s
 
 # Build settings
 markdown: kramdown
-
-# Build settings
-markdown: kramdown
 permalink: pretty
+
+# Gems
+gems:
+  - jekyll-sitemap

@@ -3,12 +3,12 @@ baseurl:
 
 # Site settings
 title: Craftsmen labs
-email: info@codecentric.nl
+email: info@craftsmenlabs.com
 description: "Craftsmen labs is the place where software craftmanship and innovation meet. Continuous validation, IOT and machine learning"
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 4EB2D1
-  secondary: 95C5B6  
+  secondary: 95C5B6
   secondary-dark: 333
 
 # Team names, titles and social links
@@ -43,9 +43,9 @@ address:
   - line: 1066 VH, Amsterdam
   - line: The Netherlands
 
-  # Feel free to add more lines here 
+  # Feel free to add more lines here
 telephone: +31 (0) 854 000 011
-email: info@crafstmenlabs.nl
+email: info@craftsmenlabs.com
 
 # API settings
 google_api_key: AIzaSyCdGwGgcbqomwupJAS5kx9RFEU_WPuTW_s

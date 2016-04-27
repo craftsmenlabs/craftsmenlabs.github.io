@@ -338,7 +338,7 @@ header .scroll-down-btn {
         font-weight: 700;
         line-height: 50px;
     }
-    
+
     header .scroll-down-btn {
     padding-top: 12em;
 }
@@ -371,7 +371,7 @@ section h3.section-subheading {
 }
 
 section.wrapper.style1 {
-    background-color: #f9f9f9; 
+    background-color: #f9f9f9;
     padding-top: 10em;
     padding-bottom: 10em;
 }
@@ -691,7 +691,6 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url(img/map-image.png);
     background-position: center;
     background-repeat: no-repeat;
 }

@@ -1,0 +1,14 @@
+---
+title: Gareth
+subtitle: Continuous validation
+layout: default
+modal-id: 1
+date: 2016-07-18
+img: banner-objectives.png
+thumbnail: gareth-logo.png
+alt: image-alt
+project-date: April 2014
+client: Gareth
+category: Business goals validation
+description: Tegenwoordig kunnen we razendsnel kwalitatief goede software maken en leveren. Op dat gebied zit zeker een groot deel van onze passie. Maar juist de post-deployment fase baart ons zorgen. Hoe weten we nou zeker dat we het juiste hebben gebouwd? Met Gareth meet je of de software die geleverd wordt daadwerkelijk de impact heeft die de business nodig heeft. Meer informatie over Gareth vindt u op:<a href="http://getgareth.io/" target="_blank"> getGareth</a>
+---

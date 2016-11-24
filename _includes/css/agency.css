@@ -276,6 +276,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
+    background-color: #222;
     background-image: url(img/header-bg.jpg);
     background-position: center center;
     background-repeat: none;
@@ -286,7 +287,7 @@ header {
 }
 
 header .intro-text {
-    padding-top: 100px;
+    padding-top: 4em;
     padding-bottom: 5em;
 }
 
@@ -313,7 +314,7 @@ header .scroll-down-btn {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
+        padding-top: 12em;
         padding-bottom: 10em;
     }
 
@@ -433,7 +434,6 @@ section.wrapper.style1 {
     padding: 25px;
     max-width: 400px;
     text-align: center;
-    background-color: #fff;
 }
 
 #portfolio .portfolio-item .portfolio-caption h4 {

@@ -13,7 +13,7 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Source Sans Pro,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #333;
 }
 
@@ -21,17 +21,29 @@ body {
     color: #777;
 }
 
+.text-muted-light {
+    color: #e4e3e3;
+}
+
 .text-primary {
     color: #4EB2D1;
 }
 
 p {
-    font-size: 18px;
-    line-height: 1.75;
+
+    color: #777;
+    font-weight: 300;
+    font-size: 1.5em;
+    -webkit-font-smoothing: antialiased;
+    line-height: 1.6em;
 }
 
 p.large {
-    font-size: 20px;
+    font-size: 2em;
+}
+
+p.small {
+    font-size: 1.25em;
 }
 
 a,
@@ -60,8 +72,8 @@ h4,
 h5,
 h6 {
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-family: Source Sans Pro,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 500;
 }
 
 .flooting-text{
@@ -79,7 +91,7 @@ h6 {
 }
 
 .bg-darkest-gray {
-    background-color: #222;
+    background-color: #3e4853;
 }
 
 .btn-primary {
@@ -280,11 +292,10 @@ scroll-down {
 }
 
 header {
-    text-align: center;
+    text-align: left;
     color: #fff;
     background-attachment: scroll;
     background-color: #222;
-    background-image: url(img/header-bg.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -302,17 +313,20 @@ header .intro-text {
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 40px;
-    line-height: 40px;
+    font-family: Source Sans Pro,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 300;
+    font-size: 1.5em;
+    -webkit-font-smoothing: antialiased;
+    line-height: 1.6em;
 }
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 41px;
-    font-weight: 700;
+    font-family: Source Sans Pro,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 3em;
+    font-weight: 300;
     line-height: 50px;
+    color: #4EB2D1;
 }
 
 header .scroll-down-btn {
@@ -327,17 +341,20 @@ header .scroll-down-btn {
 
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
-        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 20px;
-        line-height: 20px;
+        font-family: Source Sans Pro,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-weight: 300;
+        font-size: 2em;
+        -webkit-font-smoothing: antialiased;
+        line-height: 1.6em;
     }
 
     header .intro-text .intro-heading {
         margin-bottom: 50px;
-        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 50px;
-        font-weight: 700;
-        line-height: 50px;
+        font-family: Source Sans Pro,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-weight: 300;
+        font-size: 5em;
+        line-height: 1em;
+        color: #4EB2D1;
     }
 
     header .scroll-down-btn {
@@ -372,20 +389,22 @@ section h3.section-subheading {
 }
 
 section.wrapper.style1 {
-    background-color: #f9f9f9;
-    padding-top: 10em;
-    padding-bottom: 10em;
+    padding-top: 8em;
+    padding-bottom: 8em;
 }
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 5em 0;
     }
 }
 
 .service-heading {
-    margin: 15px 0;
+    margin: 2em 0;
+    font-size: 1.5em;
     text-transform: none;
+    -webkit-font-smoothing: antialiased;
+
 }
 
 #portfolio .portfolio-item {
@@ -450,9 +469,8 @@ section.wrapper.style1 {
 
 #portfolio .portfolio-item .portfolio-caption p {
     margin: 0;
-    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Source Sans Pro,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
-    font-style: italic;
 }
 
 #portfolio * {

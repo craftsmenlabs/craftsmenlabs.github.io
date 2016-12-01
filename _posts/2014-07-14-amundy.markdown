@@ -1,6 +1,6 @@
 ---
 title: Amundy
-subtitle: Website Design
+subtitle: OiT platform
 layout: default
 modal-id: 5
 date: 2014-07-14
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Amundy is de one-stop-shop voor real-time data. Amundy het platform waar data feeds kan zoeken, filteren en combineren zodat je je eigen feeds kan afnemen. Het platform in lineair schaalbaar en kan dus enorme hoeveelheden data aan. Probeer Amundy zelf op:<a href="http://amundy.com/" target="_blank"> Amundy.com</a>
+description: Amundy is de one-stop- shop voor real-time data. Data wordt gezocht, gefilterd en gecombineerd, hierdoor worden unieke datafeeds gecreëerd. Het platform is lineair schaalbaar en is daarmee erg robuust met een stabiele performance. Meer informatie:<a href="http://amundy.com/" target="_blank"> Amundy.com</a>
 
 ---

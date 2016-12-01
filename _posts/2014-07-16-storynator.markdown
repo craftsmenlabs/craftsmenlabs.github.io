@@ -1,6 +1,6 @@
 ---
 title: Storynator
-subtitle: Reguirement validatie
+subtitle: Requirement validatie
 layout: default
 modal-id: 3
 date: 2014-07-16

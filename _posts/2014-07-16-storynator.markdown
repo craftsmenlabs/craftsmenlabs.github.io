@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: GAreth
 category: Web Development
-description: Met betrekking tot software development en operations zijn er behoorlijk wat tools die helpen op het gebied van kwaliteit. We meten en automatiseren van alles en kunnen mede hierdoor zeer stabiele kwaliteit leveren. Op het gebied van requirements missen we vaak de kwaliteit en de zekerheid dat we daadwerkelijk business value leveren. Stories is een validatie tool voor product backlogs. Net zoals we source code meten en tegen een quality gate aanhouden doet Storynator dit met de input. Storynator is onderdeel van het Gareth platform. Meer informatie over Storynator vindt u op:<a href="http://getgareth.io/" target="_blank"> getGareth</a>
+description: Software development processen kent een hoop Continuous Delivery solutions en tooling. Monitoring zorgt voor inzicht en stabiele kwaliteit. De ontbrekende factor is het meten van requirements op business value. The Storynator is de quality gate en validatie solution voor product backlogs. Meer informatie:<a href="http://getgareth.io/" target="_blank"> getGareth</a>
 
 ---
